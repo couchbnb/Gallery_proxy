@@ -1,0 +1,17 @@
+ .top >div {
+  overflow: visible;
+
+ }
+
+ .mid{
+
+
+}
+
+
+
+/* fixes the padding in more places to stay */
+  .fvtiPX {
+    padding-top: 0 !important;
+  }
+
